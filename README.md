@@ -5,6 +5,7 @@ A collection of LeetCode questions i have practiced half way threw
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nithesh-shetty9/datastructures/tree/master/0046-permutations) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nithesh-shetty9/datastructures/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Binary Indexed Tree
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions i have practiced half way threw
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0371-sum-of-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/nithesh-shetty9/datastructures/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
