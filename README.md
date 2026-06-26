@@ -7,6 +7,7 @@ A collection of LeetCode questions i have practiced half way threw
 | ------- |
 | [0046-permutations](https://github.com/nithesh-shetty9/datastructures/tree/master/0046-permutations) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nithesh-shetty9/datastructures/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -27,4 +28,20 @@ A collection of LeetCode questions i have practiced half way threw
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nithesh-shetty9/datastructures/tree/master/0046-permutations) |
+## Hash Table
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## String
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Sorting
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Ordered Set
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 <!---LeetCode Topics End-->
