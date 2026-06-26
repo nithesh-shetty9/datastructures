@@ -8,6 +8,7 @@ A collection of LeetCode questions i have practiced half way threw
 | [0046-permutations](https://github.com/nithesh-shetty9/datastructures/tree/master/0046-permutations) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/nithesh-shetty9/datastructures/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [3026-maximum-good-subarray-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/3026-maximum-good-subarray-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions i have practiced half way threw
 |  |
 | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [3026-maximum-good-subarray-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/3026-maximum-good-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions i have practiced half way threw
 |  |
 | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/nithesh-shetty9/datastructures/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Prefix Sum
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/3026-maximum-good-subarray-sum) |
 <!---LeetCode Topics End-->
