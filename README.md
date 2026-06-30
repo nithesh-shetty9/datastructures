@@ -8,15 +8,3 @@
 <a href="https://www.leetcode.com/nithesh_shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithesh_shetty" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nitheshshetty9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nithesh" height="30" width="40" /></a>
 </p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0443-string-compression](https://github.com/nithesh-shetty9/datastructures/tree/master/0443-string-compression) |
-## String
-|  |
-| ------- |
-| [0443-string-compression](https://github.com/nithesh-shetty9/datastructures/tree/master/0443-string-compression) |
-<!---LeetCode Topics End-->
