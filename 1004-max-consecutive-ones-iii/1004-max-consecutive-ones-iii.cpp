@@ -12,7 +12,7 @@ public:
             {
                 flip++;
             }
-                while(flip>k)
+                while(flip>k&&left <= right)
                 {
                     if(nums[left]==0)
                     flip--;
