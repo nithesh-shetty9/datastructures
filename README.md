@@ -16,9 +16,22 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0152-maximum-product-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
