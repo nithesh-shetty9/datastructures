@@ -15,8 +15,10 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
