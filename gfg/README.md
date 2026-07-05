@@ -1,4 +1,4 @@
-- ✅ Total Problems Solved: **204**
-- 🟢 Easy: **75**+19(basic)
+- ✅ Total Problems Solved: **205**
+- 🟢 Easy: **76**+19(basic)
 - 🟡 Medium: **103**
 - 🔴 Hard: **7**
