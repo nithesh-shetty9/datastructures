@@ -13,9 +13,18 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/0216-combination-sum-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->TORE MY PROGRESS </p>
 <p>ON LEETCODE 450+PROBLEMS</p>
 <p>ON GFG 200+PROBLEMS</p>
