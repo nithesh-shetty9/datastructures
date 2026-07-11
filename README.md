@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
