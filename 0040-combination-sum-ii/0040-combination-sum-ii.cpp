@@ -24,7 +24,7 @@ public:
         while(nextindex<nums.size()&&nums[index]==nums[nextindex])
         {
             nextindex++;
-        }
+        }//skip duplicates
         solve(nums,res,target,temp,nextindex);
     }
 };
