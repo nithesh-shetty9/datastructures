@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nithesh-shetty9/datastructures/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
