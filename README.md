@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,32 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
