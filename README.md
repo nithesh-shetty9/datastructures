@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nithesh-shetty9/datastructures/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
