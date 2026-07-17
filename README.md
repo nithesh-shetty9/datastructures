@@ -16,5 +16,18 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
 | [0282-expression-add-operators](https://github.com/nithesh-shetty9/datastructures/tree/master/0282-expression-add-operators) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
