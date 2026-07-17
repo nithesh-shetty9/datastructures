@@ -26,6 +26,7 @@
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
 | [0189-rotate-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/nithesh-shetty9/datastructures/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nithesh-shetty9/datastructures/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
