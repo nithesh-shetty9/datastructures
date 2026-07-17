@@ -24,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nithesh-shetty9/datastructures/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
