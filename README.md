@@ -25,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
 | [0136-single-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nithesh-shetty9/datastructures/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nithesh-shetty9/datastructures/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -43,10 +45,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -67,6 +71,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nithesh-shetty9/datastructures/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
