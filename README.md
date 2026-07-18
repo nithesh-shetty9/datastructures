@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/nithesh-shetty9/datastructures/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/nithesh-shetty9/datastructures/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nithesh-shetty9/datastructures/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -52,4 +53,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nithesh-shetty9/datastructures/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
