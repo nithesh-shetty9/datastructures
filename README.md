@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nithesh-shetty9/datastructures/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nithesh-shetty9/datastructures/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
@@ -19,9 +20,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
