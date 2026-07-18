@@ -17,6 +17,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nithesh-shetty9/datastructures/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
@@ -54,4 +55,5 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/nithesh-shetty9/datastructures/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
