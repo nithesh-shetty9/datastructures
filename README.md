@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/nithesh-shetty9/datastructures/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nithesh-shetty9/datastructures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -61,11 +62,13 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nithesh-shetty9/datastructures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nithesh-shetty9/datastructures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
 ## Design
