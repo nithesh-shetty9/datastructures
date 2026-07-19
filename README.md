@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/nithesh-shetty9/datastructures/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nithesh-shetty9/datastructures/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nithesh-shetty9/datastructures/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,4 +58,12 @@
 | [0035-search-insert-position](https://github.com/nithesh-shetty9/datastructures/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
