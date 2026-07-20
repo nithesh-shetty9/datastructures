@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nithesh-shetty9/datastructures/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
@@ -64,12 +65,14 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithesh-shetty9/datastructures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nithesh-shetty9/datastructures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nithesh-shetty9/datastructures/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
 ## Design
 |  |
