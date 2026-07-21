@@ -1,17 +1,37 @@
-just started codeforces 
-problem solved=7
- 
-#Codeforces Solutions
+# Codeforces Solutions
 
-## Strings
-- 71A - Way Too Long Words (800)
-- 59A - Word (800)
-- 236A - Boy or Girl (800)
-- 1703A - YES or YES? (800)
-- 118A - String Task (1000)
+My solutions to Codeforces problems, organized by topic.
 
-## Binary Search
-- 474B - Worms (1200)
+## Problems Solved: 8
 
-## Math
-- 4A - Watermelon (800)
+### Strings (5)
+
+* 71A - Way Too Long Words (800)
+* 59A - Word (800)
+* 236A - Boy or Girl (800)
+* 1703A - YES or YES? (800)
+* 118A - String Task (1000)
+
+### Binary Search (1)
+
+* 474B - Worms (1200)
+
+### Math (1)
+
+* 4A - Watermelon (800)
+
+### Matrices (1)
+
+* 263A - Beautiful Matrix (800)
+
+---
+
+## Topic Progress
+
+| Topic         | Solved |
+| ------------- | :----: |
+| Strings       |    5   |
+| Binary Search |    1   |
+| Math          |    1   |
+| Matrices      |    1   |
+| **Total**     |  **8** |
