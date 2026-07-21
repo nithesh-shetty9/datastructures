@@ -43,7 +43,7 @@ public:
        {
         int temp1=nextsmaller[i]-i;
         int temp2=i-prevsmaller[i];
-        sum=(sum+(arr[i]*1ll*(temp1*temp2)))%1000000007;
+        sum=(sum+(arr[i]*1LL*(temp1*temp2)))%1000000007;
        } 
        return sum;
     }
