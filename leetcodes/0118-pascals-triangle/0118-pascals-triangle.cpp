@@ -1,28 +1,24 @@
 class Solution {
-    vector<int>findit(int n)
+public:
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>>res;
+        for(int i=0;i<numRows;i++)
+        {
+            res.push_back(solve(i));
+        }
+        return res;
+    }
+    vector<int>solve(int r)
     {
         vector<int>temp;
         temp.push_back(1);
-        int ans=1;
-        for(int i=1;i<=n;i++)
+        int sum=1;
+        for(int i=1;i<=r;i++)
         {
-            ans=ans*(n-i+1);
-            ans=ans/i;
-            temp.push_back(ans);
-            
+            sum=sum*(r-i+1);
+            sum=sum/i;
+            temp.push_back(sum);
         }
         return temp;
-
-    }
-
-
-public:
-    vector<vector<int>> generate(int numRows) {
-         vector<vector<int>>res;
-         for(int i=0;i<numRows;i++)
-         {
-            res.push_back(findit(i));
-         }
-        return res;
     }
 };

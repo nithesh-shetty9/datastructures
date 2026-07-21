@@ -1,2 +1,2 @@
 just started codeforces 
-problem solved=5
+problem solved=7
