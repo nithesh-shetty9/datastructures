@@ -8,7 +8,7 @@ public:
        stack<int>st2;
        for(int i=n-1;i>=0;i--)
        {
-        while(!st1.empty()&&arr[i]<=arr[st1.top()])
+        while(!st1.empty()&&arr[i]<arr[st1.top()])
         {
            st1.pop();
         }
@@ -24,7 +24,7 @@ public:
        }
           for(int i=0;i<n;i++)
        {
-        while(!st2.empty()&&arr[i]<arr[st2.top()])
+        while(!st2.empty()&&arr[i]<=arr[st2.top()])
         {
            st2.pop();
         }
