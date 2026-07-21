@@ -2,7 +2,7 @@
 
 My solutions to Codeforces problems, organized by topic.
 
-## Problems Solved: 8
+## Problems Solved: 10
 
 ### Strings (5)
 
@@ -24,6 +24,11 @@ My solutions to Codeforces problems, organized by topic.
 
 * 263A - Beautiful Matrix (800)
 
+### Greedy (2)
+
+* 158A - Next Round (800)
+* 160A - Twins (900)
+
 ---
 
 ## Topic Progress
@@ -31,7 +36,8 @@ My solutions to Codeforces problems, organized by topic.
 | Topic         | Solved |
 | ------------- | :----: |
 | Strings       |    5   |
+| Greedy        |    2   |
 | Binary Search |    1   |
 | Math          |    1   |
 | Matrices      |    1   |
-| **Total**     |  **8** |
+| **Total**     | **10** |
