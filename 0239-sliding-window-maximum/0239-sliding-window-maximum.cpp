@@ -1,45 +1,25 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        queue<int>q;
-        deque<int>track;
-        if(k>nums.size())
-        {
-            return {};
-        }
-        for(int i=0;i<k;i++)
-        {
-            if(track.empty())
-            {
-                track.push_back(nums[i]);
-            }
-            else
-            {
-                while(!track.empty()&&nums[i]>track.back())
-                {
-                        track.pop_back();
-                }
-                   track.push_back(nums[i]);
-                }
-            q.push(nums[i]);
-        }
+        deque<int>q;
         vector<int>ans;
-        ans.push_back(track.front());
         int n=nums.size();
-        for(int i=k;i<n;i++)
+        for(int i=0;i<n;i++)
         {
-            if(track.front()==q.front())
+            //check if front elemnt is slided
+            if(!q.empty()&&q.front()<=i-k)
             {
-                track.pop_front();
+                q.pop_front();
             }
-             while(!track.empty()&&nums[i]>track.back())
-              {
-                        track.pop_back();
-              }
-                track.push_back(nums[i]);
-                ans.push_back(track.front());
-                q.pop();
-                q.push(nums[i]);
+            while(!q.empty()&&nums[i]>nums[q.back()])
+            {
+                q.pop_back();
+            }
+            q.push_back(i);
+            if(i+1>=k)
+            {
+                ans.push_back(nums[q.front()]);
+            }
         }
         return ans;
     }
