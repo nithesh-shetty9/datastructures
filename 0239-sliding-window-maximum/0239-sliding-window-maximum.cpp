@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++)
         {
             //check if front elemnt is slided
-            if(!q.empty()&&q.front()<=i-k)
+            if(!q.empty()&&q.front()==i-k)
             {
                 q.pop_front();
             }
