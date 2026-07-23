@@ -53,4 +53,16 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nithesh-shetty9/datastructures/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
