@@ -11,26 +11,26 @@ public:
             }
             else
             {
-                while(!st.empty()&&st.top()>0&&abs(arr[i])>st.top())
+                bool alive=true;
+                while(alive&&!st.empty()&&st.top()>0)
                 {
+                 if(st.top()==abs(arr[i]))
+                 {
+                    alive=false;
                     st.pop();
+                 }   
+                 else if(abs(arr[i])>st.top())
+                 {
+                    st.pop();
+                 }
+                 else
+                 {
+                    alive=false;
+                 }
                 }
-                    if(!st.empty()&&st.top()>0&&st.top()==abs(arr[i]))
-                    {
-                        st.pop();
-                        continue;
-                    }
-                    else if(!st.empty()&&st.top()>0&&st.top()>abs(arr[i]))
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                    st.push(arr[i]);
-                    }
-                }
-
+                if(alive)st.push(arr[i]);
             }
+        }
         vector<int>ans;
         while(!st.empty())
         {

@@ -1,27 +1,27 @@
 class Solution {
+        vector<string>ans;
 public:
     vector<string> letterCasePermutation(string s) {
-        vector<string>res;
-        solve(s,res,"",0);
-         return res;
+        solve(s,0,"");
+        return ans;
     }
-    void solve(string s,vector<string>&res,string temp,int index)
+    void solve(string s,int index,string temp)
     {
         if(index>=s.size())
         {
-            res.push_back(temp);
+            ans.push_back(temp);
             return;
         }
-        if(!isdigit(s[index]))
+        if(s[index]>='0'&&s[index]<='9')
         {
-            char dh=tolower(s[index]);
-            solve(s,res,temp+dh,index+1);
-            char ch=toupper(s[index]);
-            solve(s,res,temp+ch,index+1);
+            solve(s,index+1,temp+s[index]);
         }
         else
         {
-            solve(s,res,temp+s[index],index+1);
+            char temp1=tolower(s[index]);
+            solve(s,index+1,temp+temp1);
+            temp1=toupper(s[index]);
+            solve(s,index+1,temp+temp1);
         }
     }
 };
