@@ -2,7 +2,7 @@
 
 My solutions to Codeforces problems, organized by topic.
 
-## Problems Solved: 13
+## Problems Solved: 14
 
 ### Strings (6)
 
@@ -13,11 +13,10 @@ My solutions to Codeforces problems, organized by topic.
 * 118A - String Task (1000)
 * 266A - Stones on the Table (800)
 
-### Greedy (3)
+### Greedy (2)
 
 * 158A - Next Round (800)
 * 160A - Twins (900)
-* 339A - Helpful Maths (800)
 
 ### Binary Search (1)
 
@@ -35,19 +34,29 @@ My solutions to Codeforces problems, organized by topic.
 
 * 978A - Remove Duplicates (800)
 
+### Implementation / Sorting (1)
+
+* 339A - Helpful Maths (800)
+
+### Maps (1)
+
+* 4C - Registration System (1200)
+
 ---
 
 ## Topic Progress
 
-| Topic         | Solved |
-| :------------ | :----: |
-| Strings       |    6   |
-| Greedy        |    3   |
-| Binary Search |    1   |
-| Math          |    1   |
-| Matrices      |    1   |
-| Arrays        |    1   |
-| **Total**     | **13** |
+| Topic                    | Solved |
+| :----------------------- | :----: |
+| Strings                  |    6   |
+| Greedy                   |    2   |
+| Binary Search            |    1   |
+| Math                     |    1   |
+| Matrices                 |    1   |
+| Arrays                   |    1   |
+| Implementation / Sorting |    1   |
+| Maps                     |    1   |
+| **Total**                | **14** |
 
 ---
 
@@ -58,5 +67,5 @@ My solutions to Codeforces problems, organized by topic.
 |    800    |   10   |
 |    900    |    1   |
 |    1000   |    1   |
-|    1200   |    1   |
-| **Total** | **13** |
+|    1200   |    2   |
+| **Total** | **14** |
