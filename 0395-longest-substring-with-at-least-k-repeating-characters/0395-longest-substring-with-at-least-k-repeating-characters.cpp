@@ -35,7 +35,7 @@ public:
             if(count==uniques)
             {
                 maxi=max(maxi,right-left+1);
-                cout<<targetunique<<" "<<maxi<<endl;
+            
             }
             right++;
         }
