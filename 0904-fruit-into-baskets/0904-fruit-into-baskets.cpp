@@ -17,11 +17,9 @@ public:
             if(mpp[fruits[left]]==0)
             {
                 baskets--;
-                mpp.erase(fruits[left]);
             }
             left++;
         }
-        cout<<right<<" "<<left<<endl;
         maxi=max(maxi,right-left+1);
         right++;
     }    
