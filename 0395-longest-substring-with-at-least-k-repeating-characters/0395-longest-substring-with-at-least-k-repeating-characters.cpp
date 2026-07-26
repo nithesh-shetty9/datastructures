@@ -16,7 +16,6 @@ public:
             {
                 uniques++;
             }
-             mpp[s[right]-'a']++;
             while(uniques>targetunique&&left<right)
             {
                 if (mpp[s[left]-'a'] == k)
@@ -28,6 +27,7 @@ public:
                 }
                 left++;
             }
+            mpp[s[right]-'a']++;
             if(mpp[s[right]-'a']==k)
             {
                 count++;
