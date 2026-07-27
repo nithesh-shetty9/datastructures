@@ -17,6 +17,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +56,9 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
