@@ -16,6 +16,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -48,5 +51,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
