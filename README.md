@@ -59,6 +59,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
