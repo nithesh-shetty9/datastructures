@@ -7,7 +7,11 @@ public:
         int j=0;
         for(int i=0;i<n;i++)
         {
-            if(j<s.size()&&s[j]>=g[i])
+            if(j>=s.size())
+            {
+                return j;
+             }
+            if(s[j]>=g[i])
             {
                 j++;
             }
