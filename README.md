@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
@@ -81,6 +82,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
