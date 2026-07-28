@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
