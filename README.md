@@ -21,6 +21,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
