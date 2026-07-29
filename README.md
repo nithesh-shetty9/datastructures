@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -96,4 +97,12 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
