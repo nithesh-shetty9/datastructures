@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Counting
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
