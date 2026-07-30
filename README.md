@@ -55,6 +55,7 @@
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
@@ -115,9 +116,14 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
