@@ -33,6 +33,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nithesh-shetty9/datastructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/nithesh-shetty9/datastructures/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nithesh-shetty9/datastructures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -99,6 +100,7 @@
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/nithesh-shetty9/datastructures/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
