@@ -63,6 +63,7 @@
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/nithesh-shetty9/datastructures/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
@@ -156,4 +158,8 @@
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
