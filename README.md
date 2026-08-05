@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/nithesh-shetty9/datastructures/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/nithesh-shetty9/datastructures/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithesh-shetty9/datastructures/tree/master/0424-longest-repeating-character-replacement) |
@@ -60,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nithesh-shetty9/datastructures/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
