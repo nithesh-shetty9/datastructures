@@ -63,6 +63,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/nithesh-shetty9/datastructures/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/nithesh-shetty9/datastructures/tree/master/0057-insert-interval) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0334-increasing-triplet-subsequence) |
