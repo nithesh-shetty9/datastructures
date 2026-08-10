@@ -20,6 +20,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/nithesh-shetty9/datastructures/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -124,6 +125,7 @@
 | [0435-non-overlapping-intervals](https://github.com/nithesh-shetty9/datastructures/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nithesh-shetty9/datastructures/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
@@ -174,18 +176,22 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
