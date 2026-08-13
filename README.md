@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nithesh-shetty9/datastructures/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/nithesh-shetty9/datastructures/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithesh-shetty9/datastructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -60,6 +61,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Array
 |  |
@@ -67,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/nithesh-shetty9/datastructures/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/nithesh-shetty9/datastructures/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithesh-shetty9/datastructures/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/nithesh-shetty9/datastructures/tree/master/0334-increasing-triplet-subsequence) |
@@ -179,6 +182,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -198,6 +202,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
