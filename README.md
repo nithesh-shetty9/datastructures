@@ -85,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -178,6 +179,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -208,4 +211,8 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
