@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -150,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
@@ -190,6 +192,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -216,6 +219,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -228,6 +232,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
