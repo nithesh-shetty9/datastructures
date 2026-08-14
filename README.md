@@ -35,6 +35,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nithesh-shetty9/datastructures/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithesh-shetty9/datastructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -156,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
@@ -188,6 +190,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -198,6 +201,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -211,6 +215,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -220,6 +225,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0100-same-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
