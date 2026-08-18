@@ -197,6 +197,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nithesh-shetty9/datastructures/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -225,6 +226,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nithesh-shetty9/datastructures/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
