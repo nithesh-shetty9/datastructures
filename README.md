@@ -86,6 +86,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithesh-shetty9/datastructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nithesh-shetty9/datastructures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nithesh-shetty9/datastructures/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -156,6 +157,7 @@
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/nithesh-shetty9/datastructures/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -233,6 +237,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/nithesh-shetty9/datastructures/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -256,4 +261,5 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
