@@ -196,6 +196,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -225,6 +226,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -252,5 +254,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
