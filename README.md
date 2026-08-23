@@ -211,6 +211,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nithesh-shetty9/datastructures/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -244,6 +245,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nithesh-shetty9/datastructures/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -258,6 +260,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/nithesh-shetty9/datastructures/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/nithesh-shetty9/datastructures/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
