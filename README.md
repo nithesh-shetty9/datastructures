@@ -154,6 +154,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/nithesh-shetty9/datastructures/tree/master/0739-daily-temperatures) |
@@ -162,6 +163,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/nithesh-shetty9/datastructures/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
@@ -197,6 +199,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
@@ -228,6 +231,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nithesh-shetty9/datastructures/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
@@ -259,7 +263,12 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/nithesh-shetty9/datastructures/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nithesh-shetty9/datastructures/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
