@@ -3,25 +3,20 @@ public:
     int longestOnes(vector<int>& nums, int k) {
         int left=0;
         int right=0;
+        int count=0;
         int n=nums.size();
-        int flip=0;
         int maxi=0;
         while(right<n)
         {
-            if(nums[right]==0)
+            if(nums[right]==0)count++;
+            while(count>k&&left<=right)
             {
-                flip++;
+                if(nums[left]==0)count--;
+                left++;
             }
-                while(flip>k&&left <= right)
-                {
-                    if(nums[left]==0)
-                    flip--;
-                    left++;
-                }
             maxi=max(maxi,right-left+1);
             right++;
         }
         return maxi;
-        
     }
 };

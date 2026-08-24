@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Administrator/Desktop/datastructures/codeforces",
-      "program": "c:/Users/Administrator/Desktop/datastructures/codeforces/build/Debug/outDebug",
+      "cwd": "c:/Users/Administrator/Desktop/datastructures/leetcodes/0057-insert-interval",
+      "program": "c:/Users/Administrator/Desktop/datastructures/leetcodes/0057-insert-interval/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
