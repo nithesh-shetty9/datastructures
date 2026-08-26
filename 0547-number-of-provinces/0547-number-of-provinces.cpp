@@ -18,22 +18,13 @@ public:
 
     void bfs(int node, vector<vector<int>>& isConnected,
              vector<bool>& visited) {
-
-        queue<int> q;
-        q.push(node);
-        visited[node] = true;
-
-        while(!q.empty()) {
-            int current = q.front();
-            q.pop();
-
-            for(int i = 0; i < isConnected.size(); i++) {
-
-                if(isConnected[current][i] == 1 && !visited[i]) {
-                    visited[i] = true;
-                    q.push(i);
+                visited[node]=true;
+                for(int i=0;i<isConnected.size();i++)
+                {
+                    if(!visited[i]&&isConnected[node][i]==1)
+                    {
+                        bfs(i,isConnected,visited);
+                    }
                 }
-            }
-        }
     }
 };
