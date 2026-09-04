@@ -52,4 +52,16 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
