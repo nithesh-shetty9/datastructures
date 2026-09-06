@@ -58,6 +58,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
