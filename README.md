@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -105,4 +106,12 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
