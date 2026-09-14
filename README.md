@@ -11,6 +11,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
@@ -48,6 +50,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
@@ -61,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
@@ -113,5 +117,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
