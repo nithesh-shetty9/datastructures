@@ -46,6 +46,7 @@
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -74,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
