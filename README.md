@@ -69,12 +69,14 @@
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -88,6 +90,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
