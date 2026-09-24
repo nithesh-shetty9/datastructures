@@ -56,6 +56,7 @@
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithesh-shetty9/datastructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithesh-shetty9/datastructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
