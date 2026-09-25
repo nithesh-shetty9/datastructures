@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
@@ -189,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/nithesh-shetty9/datastructures/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
