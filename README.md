@@ -13,6 +13,7 @@
 | ------- |
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
@@ -89,6 +90,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
@@ -222,4 +224,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nithesh-shetty9/datastructures/tree/master/0493-reverse-pairs) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
