@@ -61,6 +61,7 @@
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithesh-shetty9/datastructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@
 | [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -112,6 +114,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
