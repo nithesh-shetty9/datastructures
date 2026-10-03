@@ -20,6 +20,7 @@
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithesh-shetty9/datastructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -71,6 +75,7 @@
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +178,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -204,6 +210,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/nithesh-shetty9/datastructures/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0704-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -241,4 +248,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
