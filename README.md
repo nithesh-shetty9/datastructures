@@ -48,6 +48,7 @@
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nithesh-shetty9/datastructures/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nithesh-shetty9/datastructures/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nithesh-shetty9/datastructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -76,6 +78,7 @@
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nithesh-shetty9/datastructures/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nithesh-shetty9/datastructures/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -252,4 +256,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/nithesh-shetty9/datastructures/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
