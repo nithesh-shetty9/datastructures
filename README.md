@@ -17,6 +17,7 @@
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nithesh-shetty9/datastructures/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
@@ -29,6 +30,7 @@
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nithesh-shetty9/datastructures/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nithesh-shetty9/datastructures/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nithesh-shetty9/datastructures/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nithesh-shetty9/datastructures/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nithesh-shetty9/datastructures/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -277,11 +281,13 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nithesh-shetty9/datastructures/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nithesh-shetty9/datastructures/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nithesh-shetty9/datastructures/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nithesh-shetty9/datastructures/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithesh-shetty9/datastructures/tree/master/3286-find-a-safe-walk-through-a-grid) |
