@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nithesh-shetty9/datastructures/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
@@ -171,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nithesh-shetty9/datastructures/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nithesh-shetty9/datastructures/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
