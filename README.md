@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/nithesh-shetty9/datastructures/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
