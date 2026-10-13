@@ -80,6 +80,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nithesh-shetty9/datastructures/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nithesh-shetty9/datastructures/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithesh-shetty9/datastructures/tree/master/3286-find-a-safe-walk-through-a-grid) |
