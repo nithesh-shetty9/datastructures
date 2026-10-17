@@ -116,6 +116,7 @@
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
+| [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -151,6 +152,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -312,4 +314,8 @@
 | ------- |
 | [0595-big-countries](https://github.com/nithesh-shetty9/datastructures/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nithesh-shetty9/datastructures/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
