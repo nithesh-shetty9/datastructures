@@ -1,40 +1,32 @@
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int V=isConnected.size();
-        vector<vector<int>>adj(V+1);
-        vector<int>visited(V+1,0);
-        int count=0;
-        for(int i=0;i<V;i++)
-        {
-            for(int j=0;j<V;j++)
-            {
-                if(isConnected[i][j]==1)
-                {
-               adj[i+1].push_back(j+1);
-                }
-
-            }
-        }
+    int findCircleNum(vector<vector<int>>&arr) {
+        vector<int>visited(arr.size()+1,0);
+        int V=arr.size();
+        int cnt=0;
         for(int i=1;i<=V;i++)
         {
             if(!visited[i])
             {
-                count++;
-                depth(adj,i,visited);
+                cnt++;
+                queue<int>q;
+                q.push(i);
+                visited[i]=1;
+                while(!q.empty())
+                {
+                    int curr=q.front();
+                    q.pop();
+                    for(int j=0;j<V;j++)
+                    {
+                        if(arr[curr-1][j]==1&&!visited[j+1])
+                        {
+                            visited[j+1]=1;
+                            q.push(j+1);
+                        }
+                    }
+                }
             }
         }
-        return count;
-    }
-    void depth(vector<vector<int>>&adj,int node,vector<int>&visited)
-    {
-        visited[node]=1;
-       for(auto it:adj[node])
-       {
-           if(!visited[it])
-           {
-               depth(adj,it,visited);
-           }
-       }
+        return cnt;
     }
 };
