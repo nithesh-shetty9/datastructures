@@ -77,6 +77,7 @@
 | [0704-binary-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Graph Coloring
@@ -324,4 +327,5 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
