@@ -1,144 +1,60 @@
 class Solution {
-    void dfs(vector<vector<char>>&grid,int row,int col,
-      vector<vector<int>>&visited)
-      {
-          if(row<0||col<0||row==grid.size()||col==grid[0].size()||visited[row][col]
-          ||grid[row][col]=='X'){
-              return;
-          }
-          visited[row][col]=1;
-          dfs(grid,row-1,col,visited);
-          dfs(grid,row+1,col,visited);
-          dfs(grid,row,col-1,visited);
-          dfs(grid,row,col+1,visited);
-      }
 public:
-    void solve(vector<vector<char>>&grid) {
-        int n=grid.size();
-        int m=grid[0].size();
+    void solve(vector<vector<char>>& board) {
+        int n=board.size();
+        int m=board[0].size();
         vector<vector<int>>visited(n,vector<int>(m,0));
         for(int i=0;i<m;i++)
         {
-            if(grid[0][i]=='O'&&!visited[0][i])
+            if(board[0][i]=='O')
             {
-                dfs(grid,0,i,visited);
+                dfs(0,i,board,visited);
             }
         }
         for(int i=0;i<n;i++)
         {
-            if(grid[i][m-1]=='O'&&!visited[i][m-1])
+            if(board[i][0]=='O')
             {
-                dfs(grid,i,m-1,visited);
-            }
-        }
-        for(int i=m-1;i>=0;i--)
-        {
-            if(grid[n-1][i]=='O'&&!visited[n-1][i])
-            {
-                dfs(grid,n-1,i,visited);
-            }
-        }
-         for(int i=n-1;i>=0;i--)
-        {
-            if(grid[i][0]=='O'&&!visited[i][0])
-            {
-                dfs(grid,i,0,visited);
+                dfs(i,0,board,visited);
             }
         }
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<m;j++)
+            if(board[i][m-1]=='O')
             {
-                if(grid[i][j]=='O'&&!visited[i][j])
+                dfs(i,m-1,board,visited);
+            }
+        }
+        for(int i=0;i<m;i++)
+        {
+            if(board[n-1][i]=='O')
+            {
+                dfs(n-1,i,board,visited);
+            }
+        }
+
+
+        for(int i=1;i<n-1;i++)
+        {
+            for(int j=1;j<m-1;j++)
+            {
+                if(board[i][j]=='O'&&!visited[i][j])
                 {
-                    grid[i][j]='X';
+                    board[i][j]='X';
                 }
             }
         }
     }
+    void dfs(int row,int col,vector<vector<char>>&board,vector<vector<int>>&visited)
+    {
+        if(row<0||col<0||row==board.size()||col==board[0].size()||visited[row][col]||board[row][col]!='O')
+        {
+            return;
+        }
+        visited[row][col]=1;
+       dfs(row-1,col,board,visited);
+       dfs(row+1,col,board,visited);
+       dfs(row,col-1,board,visited);
+       dfs(row,col+1,board,visited);
+    }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//enclaves
-// class Solution {
-//     void dfs(vector<vector<int>>&grid,int row,int col,
-//       vector<vector<int>>&visited)
-//       {
-//           if(row<0||col<0||row==grid.size()||col==grid[0].size()||visited[row][col]
-//           ||grid[row][col]=='0'){
-//               return;
-//           }
-//           visited[row][col]=1;
-//           dfs(grid,row-1,col,visited);
-//           dfs(grid,row+1,col,visited);
-//           dfs(grid,row,col-1,visited);
-//           dfs(grid,row,col+1,visited);
-//       }
-// public:
-//     void solve(vector<vector<char>>&grid) {
-//         int n=grid.size();
-//         int m=grid[0].size();
-//         int count=0;
-//         vector<vector<int>>visited(n,vector<int>(m,0));
-//         for(int i=0;i<m-1;i++)
-//         {
-//             if(grid[0][i]=='1'&&!visited[0][i])
-//             {
-//                 dfs(grid,0,i,visited);
-//             }
-//         }
-//         for(int i=0;i<n-1;i++)
-//         {
-//             if(grid[i][m-1]=='1'&&visited[i][m-1])
-//             {
-//                 dfs(grid,i,m-1,visited);
-//             }
-//         }
-//         for(int i=m-1;i>0;i--)
-//         {
-//             if(grid[n-1][i]=='1'&&visited[n-1][i])
-//             {
-//                 dfs(grid,n-1,i,visited);
-//             }
-//         }
-//          for(int i=n-1;i>0;i--)
-//         {
-//             if(grid[i][0]=='1'&&visited[i][0])
-//             {
-//                 dfs(grid,i,0,visited);
-//             }
-//         }
-//         for(int i=0;i<n;i++)
-//         {
-//             for(int j=0;j<m;j++)
-//             {
-//                 if(grid[row][col]=='1'&&!visited[row][col])
-//                 {
-//                     count++;
-//                 }
-//             }
-//         }
-//         return count;
-//     }
-// };
