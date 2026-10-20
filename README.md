@@ -117,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/nithesh-shetty9/datastructures/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
