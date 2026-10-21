@@ -1,31 +1,39 @@
 class Solution {
 public:
-    int ladderLength(string s, string e, vector<string>& words) {
-        unordered_set<string>track{words.begin(),words.end()};
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        unordered_set<string>mpp;
+        for(auto i:wordList)
+        {
+            mpp.insert(i);
+        }
+        if(!mpp.count(endWord))return 0;
         queue<pair<string,int>>q;
-        q.push({s,1});
+        q.push({beginWord,1});
         while(!q.empty())
         {
             int size=q.size();
-            int level=q.front().second;
-            for(int i=0;i<size;i++)
+            for(int k=0;k<size;k++)
             {
-                string curr=q.front().first;
-                q.pop();
-                for(int j=0;j<curr.size();j++)
+            string word=q.front().first;
+            auto it=q.front().second;
+            q.pop();
+            if(word==endWord)
+            {
+                return it;
+            }
+            for(int i=0;i<word.size();i++)
+            {
+            for(int j=0;j<26;j++)
+            {
+                string temp=word;
+                temp[i]='a'+j;
+                if(mpp.count(temp))
                 {
-                    string currword=curr;
-                    for(int k=0;k<26;k++)
-                    {
-                        currword[j]='a'+k;
-                        if(track.count(currword))
-                        {
-                            if(currword==e)return level+1;
-                            track.erase(currword);
-                            q.push({currword,level+1});
-                        }
-                    }
-                }
+                    mpp.erase(temp);
+                    q.push({temp,it+1});
+                }     
+            }
+            }
             }
         }
         return 0;
