@@ -79,6 +79,7 @@
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithesh-shetty9/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithesh-shetty9/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -258,6 +259,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/nithesh-shetty9/datastructures/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithesh-shetty9/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithesh-shetty9/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithesh-shetty9/datastructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
