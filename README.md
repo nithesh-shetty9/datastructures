@@ -26,6 +26,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/nithesh-shetty9/datastructures/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nithesh-shetty9/datastructures/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/nithesh-shetty9/datastructures/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
@@ -166,6 +168,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/nithesh-shetty9/datastructures/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithesh-shetty9/datastructures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -340,4 +343,8 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nithesh-shetty9/datastructures/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nithesh-shetty9/datastructures/tree/master/0992-subarrays-with-k-different-integers) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nithesh-shetty9/datastructures/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
