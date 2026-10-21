@@ -11,11 +11,11 @@ public:
             {
                 queue<int>q;
                 q.push(i);
+                   track[i]=1;
             while(!q.empty())
             {
             int curr=q.front();
             int color=visited[curr];
-            track[curr]=1;
             q.pop();
             for(auto it:adj[curr])
             {
