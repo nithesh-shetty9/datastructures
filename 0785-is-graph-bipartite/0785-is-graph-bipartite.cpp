@@ -1,40 +1,39 @@
 class Solution {
 public:
-    bool isBipartite(vector<vector<int>>& graph) {
-        int V = graph.size();
-
-        vector<int> colored(V, -1);
-        queue<int> q;
-
-        for(int i = 0; i < V; i++)
+    bool isBipartite(vector<vector<int>>& adj) {
+        //2 different color for adjacent;
+        vector<int>visited(adj.size(),-1);
+        vector<int>track(adj.size(),0);//color 0 to to first node
+        visited[0]=0;
+        for(int i=0;i<adj.size();i++)
         {
-            if(colored[i] != -1)
-                continue;
-
-            q.push(i);
-            colored[i] = 0;
-
+            if(!track[i])
+            {
+                queue<int>q;
+                q.push(i);
             while(!q.empty())
             {
-                int curr = q.front();
-                q.pop();
-
-                for(auto it : graph[curr])
+            int curr=q.front();
+            int color=visited[curr];
+            track[curr]=1;
+            q.pop();
+            for(auto it:adj[curr])
+            {
+                if(!track[it])
                 {
-                    if(colored[it] == -1)
-                    {
-                        colored[it] = colored[curr] == 0 ? 1 : 0;
-                        q.push(it);
-                    }
-                    else
-                    {
-                        if(colored[it] == colored[curr])
-                            return false;
-                    }
+                    int c=color==0?1:0;
+                    visited[it]=c;
+                    track[it] = 1;
+                    q.push(it);
+                }
+                else if(color==visited[it])
+                {
+                    return false;
                 }
             }
         }
-
+        }
+        }
         return true;
     }
 };
