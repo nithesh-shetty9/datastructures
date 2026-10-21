@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/nithesh-shetty9/datastructures/tree/master/0051-n-queens) |
@@ -153,11 +154,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithesh-shetty9/datastructures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nithesh-shetty9/datastructures/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/nithesh-shetty9/datastructures/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/nithesh-shetty9/datastructures/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
