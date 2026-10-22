@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nithesh-shetty9/datastructures/tree/master/0079-word-search) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nithesh-shetty9/datastructures/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
@@ -26,6 +27,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nithesh-shetty9/datastructures/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/nithesh-shetty9/datastructures/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nithesh-shetty9/datastructures/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/nithesh-shetty9/datastructures/tree/master/0207-course-schedule) |
@@ -310,10 +312,12 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nithesh-shetty9/datastructures/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nithesh-shetty9/datastructures/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dijkstra's Algorithm
 |  |
@@ -354,6 +358,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nithesh-shetty9/datastructures/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nithesh-shetty9/datastructures/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Tournament Sort
 |  |
 | ------- |
