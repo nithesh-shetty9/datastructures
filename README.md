@@ -39,6 +39,7 @@
 | [0802-find-eventual-safe-states](https://github.com/nithesh-shetty9/datastructures/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nithesh-shetty9/datastructures/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/nithesh-shetty9/datastructures/tree/master/1765-map-of-highest-peak) |
@@ -87,6 +88,7 @@
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithesh-shetty9/datastructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nithesh-shetty9/datastructures/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithesh-shetty9/datastructures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
@@ -109,6 +111,7 @@
 | [0733-flood-fill](https://github.com/nithesh-shetty9/datastructures/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nithesh-shetty9/datastructures/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nithesh-shetty9/datastructures/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/nithesh-shetty9/datastructures/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nithesh-shetty9/datastructures/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/nithesh-shetty9/datastructures/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/nithesh-shetty9/datastructures/tree/master/1765-map-of-highest-peak) |
