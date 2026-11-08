@@ -48,4 +48,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
