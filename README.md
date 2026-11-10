@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
