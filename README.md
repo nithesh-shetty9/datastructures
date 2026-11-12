@@ -59,6 +59,7 @@
 | [0176-second-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/nithesh-shetty9/datastructures/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0184-department-highest-salary) |
 ## Union-Find
 |  |
 | ------- |
