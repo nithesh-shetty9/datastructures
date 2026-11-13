@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -31,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -90,9 +93,11 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
