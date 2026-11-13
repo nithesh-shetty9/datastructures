@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
