@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,9 +96,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
