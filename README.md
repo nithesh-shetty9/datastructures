@@ -64,6 +64,7 @@
 | [0177-nth-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/nithesh-shetty9/datastructures/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/nithesh-shetty9/datastructures/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/nithesh-shetty9/datastructures/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/nithesh-shetty9/datastructures/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/nithesh-shetty9/datastructures/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nithesh-shetty9/datastructures/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
