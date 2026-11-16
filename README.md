@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
