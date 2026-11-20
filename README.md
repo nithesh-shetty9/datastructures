@@ -32,6 +32,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,6 +82,7 @@
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
 |  |
 | ------- |
