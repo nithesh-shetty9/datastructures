@@ -20,6 +20,7 @@
 | [0022-generate-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/nithesh-shetty9/datastructures/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,11 +49,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
@@ -64,6 +68,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
