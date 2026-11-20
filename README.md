@@ -50,6 +50,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,18 +58,21 @@
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 ## Database
 |  |
 | ------- |
