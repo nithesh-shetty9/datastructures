@@ -51,6 +51,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/nithesh-shetty9/datastructures/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/nithesh-shetty9/datastructures/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
@@ -174,4 +178,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nithesh-shetty9/datastructures/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nithesh-shetty9/datastructures/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
