@@ -14,6 +14,7 @@
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Backtracking
@@ -175,14 +176,17 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nithesh-shetty9/datastructures/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bracket Sequences
 |  |
@@ -200,4 +204,8 @@
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
