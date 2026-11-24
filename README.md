@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -158,12 +160,14 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
@@ -208,4 +213,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
