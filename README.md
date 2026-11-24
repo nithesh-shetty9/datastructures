@@ -19,6 +19,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nithesh-shetty9/datastructures/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -222,6 +224,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
