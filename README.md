@@ -20,6 +20,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithesh-shetty9/datastructures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -237,4 +240,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
