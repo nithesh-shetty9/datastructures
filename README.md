@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/nithesh-shetty9/datastructures/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/nithesh-shetty9/datastructures/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/nithesh-shetty9/datastructures/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithesh-shetty9/datastructures/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nithesh-shetty9/datastructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nithesh-shetty9/datastructures/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
@@ -208,6 +211,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -216,5 +220,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
