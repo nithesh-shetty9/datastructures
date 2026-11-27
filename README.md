@@ -14,6 +14,7 @@
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/nithesh-shetty9/datastructures/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/nithesh-shetty9/datastructures/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nithesh-shetty9/datastructures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nithesh-shetty9/datastructures/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
@@ -175,6 +176,7 @@
 | [0239-sliding-window-maximum](https://github.com/nithesh-shetty9/datastructures/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nithesh-shetty9/datastructures/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
@@ -227,11 +230,13 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nithesh-shetty9/datastructures/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -240,6 +245,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nithesh-shetty9/datastructures/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
 | ------- |
@@ -248,4 +254,12 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nithesh-shetty9/datastructures/tree/master/3411-maximum-subarray-with-equal-products) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nithesh-shetty9/datastructures/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
